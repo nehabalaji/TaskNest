@@ -21,3 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "TaskNest"
 include(":app")
+include(":domain")
+include(":data")
+include(":core")
+include(":feature")
+include(":navigation")
